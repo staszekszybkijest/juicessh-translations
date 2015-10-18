@@ -1,22 +1,22 @@
-The all in one terminal client for Android including SSH, Local Shell, Mosh and Telnet support.
+Klient uniwersalnego terminala dla Androida włączając SSH, lokalną powłokę, wsparcie dla Mosh i telnetu.
   
-Features: 
-- Full colour terminal / ssh client
-- Popup keyboard with all those normally hard to find characters
-- Use the volume keys to quickly change font size
-- External keyboard support
-- Gestures for irssi, weechat, tmux and screen
-- Community and third party plugins
-- Official Mosh support (http://mosh.mit.edu)
-- Telnet support
-- Local Android terminal support
-- Dark, Light, 80's hacker, Molokai, Solarized Dark and Solarized Light terminal color themes
-   For an overview of solarized color scheme and why it rocks for terminal usage check out http://ethanschoonover.com/solarized
-- Click URLs to open in a browser
-- Copy & Paste within sessions
-- Save / Share SSH transcripts to Dropbox/Evernote/Email & SD card 
-- UTF-8 character support
-- Easily organise your connections by group
+Funkcje: 
+- Pełnokolorowy klient terminala / ssh
+- Wyskakująca klawiatura z wszystkimi trudno wyszukiwalnymi znakami
+- Regulacja rozmiaru fontu za pomocą klawiszy regulacji głośności
+- Wsparcie dla zewnętrznej klawiatury
+- Gesty dla irssi, weechat, tmux i screena
+- Wtyczki społeczności i pozostałych osób
+- Oficialne wsparcie Mosh (http://mosh.mit.edu)
+- Wsparcie dla telnetu
+- Wsparcie dla lokalnego terminala Andorida
+- Tematy kolorystyczne terminala: lekki, haker lat 80-tych, Monokai, ciemny i jasny Solarized
+   W celu zapoznania się ze schematem kolorów solarized i sprawdzenia dlaczego jest taki dobry do użytku w terminalu sprawdź http://ethanschoonover.com/solarized
+- Kliknij odnośniki by otworzyć w przeglądarce
+- Kopiuj / wklej pomiędzy sesjami
+- Zachowaj / udostępnij transkrypcje SSH do Dropboksa/Evernote/Email i karty SD
+- Wsparcie dla kodowania UTF-8
+- Ułatwione organizowanie Twoich połączeń za pomocą grup
 - Keep multiple SSH sessions running in the background
 - Seamlessly connect 'via' other SSH connections with one click
 - Immediate access when you open the app to your frequently used connections
