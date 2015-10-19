@@ -2,41 +2,41 @@ Klient uniwersalnego terminala dla Androida włączając SSH, lokalną powłokę
   
 Funkcje: 
 - Pełnokolorowy klient terminala / ssh
-- Wyskakująca klawiatura z wszystkimi trudno wyszukiwalnymi znakami
+- Wyskakująca klawiatura z wszystkimi trudno dostępnymi znakami
 - Regulacja rozmiaru fontu za pomocą klawiszy regulacji głośności
 - Wsparcie dla zewnętrznej klawiatury
 - Gesty dla irssi, weechat, tmux i screena
 - Wtyczki społeczności i pozostałych osób
-- Oficialne wsparcie Mosh (http://mosh.mit.edu)
+- Oficjalne wsparcie Mosh (http://mosh.mit.edu)
 - Wsparcie dla telnetu
-- Wsparcie dla lokalnego terminala Andorida
+- Wsparcie dla lokalnego terminala Androida
 - Tematy kolorystyczne terminala: lekki, haker lat 80-tych, Monokai, ciemny i jasny Solarized
-   W celu zapoznania się ze schematem kolorów solarized i sprawdzenia dlaczego jest taki dobry do użytku w terminalu sprawdź http://ethanschoonover.com/solarized
+   W celu zapoznania się ze schematem kolorów solarized i sprawdzenia czmu jest tak użyteczny w terminalu sprawdź http://ethanschoonover.com/solarized
 - Kliknij odnośniki by otworzyć w przeglądarce
 - Kopiuj / wklej pomiędzy sesjami
 - Zachowaj / udostępnij transkrypcje SSH do Dropboksa/Evernote/Email i karty SD
 - Wsparcie dla kodowania UTF-8
 - Ułatwione organizowanie Twoich połączeń za pomocą grup
-- Keep multiple SSH sessions running in the background
-- Seamlessly connect 'via' other SSH connections with one click
-- Immediate access when you open the app to your frequently used connections
-- IPv6 support
-- Password & OpenSSH private key support (ECDSA, RSA and DSA)
-- RSA key generator (encryption supported)
-- SSH key agent forwarding
-- Support for two-factor authentication (eg: Google Authenticator)
-- Identities (users/password/keys) are abstracted from connections. Instead of updating every connection when you change your password - just update the identity and any connections linked to it will use the new password/key.
-- zlib compression to improve SSH sessions on high latency connections
+- Utrzymywanie wielu sesji SSH działających w tle
+- Płynne łączenie "poprzez" inne połączenia SSH za pomocą jednego kliknięcia
+- Natychmiastowy dostęp do często używanych połączeń po otwarciu aplikacji
+- Wsparcie dla IPv6
+- Wsparcie dla hasła i klucza prywatnego OpenSSH (ECDSA, RSA i DSA)
+- Generator klucza RSA (wspierane szyfrowanie)
+- Przekazywanie agenta klucza SSH
+- Wsparcie dla dwuskładnikowego uwierzytelniania (np.: Google Authenticator)
+- Tożsamości (użytkownicy/hasła/klucze) są niezależne od połączeń. Zamiast aktualizować każde połączenie po zmianie hasła - zaktualizuj tylko tożsamość i wszystkie połączenia z nią powiązane będą używać nowego hasła/klucza.
+- Kompresja zlib w celu usprawnienia sesji SSH przy połączeniach z dużym opóźnieniem
 
 
-Pro Features (optional in-app purchase):
-- Quick and easy port forwards that can be connected to via the app or widget and can automatically open in a browser if required.
-- Integrate with Amazon AWS / EC2, synchronise connections and automatically group servers based on their class or security groups.
-- Securely keep everything in sync between multiple devices
-- Automated AES-256 encrypted backups of all of your connections and settings
-- A beautiful widget for fast access to either your frequently used connections, or a specific group (Android 3.0+).
-- Team collaboration. Share your groups of connections with team members and start working together instead of separately.
-- Handy snippets library for quick access to your frequently used commands
-- Security lock to automatically protect JuiceSSH after a period of inactivity
+Funkcje Pro (opcjonalny zakup w aplikacji):
+- Szybkie i łatwe przekierowania portów, do których można podłączyć się przez aplikację lub widżet i które można automatycznie otworzyć w przeglądarce jeśli będzie potrzeba.
+- Integracja z Amazon AWS / EC2, synchronizacja połączeń i automatyczne grupowanie serwerów w oparciu o ich klasę lub grupy bezpieczeństwa.
+- Bezpieczna synchronizacja wszystkiego pomiędzy wieloma urządzeniami
+- Zautomatyzowane kopie bezpieczeństwa wszystkich Twoich połączeń i ustawień zaszyfrowane algorytmem AES-256
+- Piękny widżet szybkiego dostępu do często używanych połączeń jak i specyficznych grup (Android 3.0+).
+- Praca zespołowa. Udostępnij grupy połączeń członkom zespołu i zacznij pracować razem zamiast osobno.
+- Poręczna biblioteka snippetów dla szybkiego dostępu do często używanych poleceń
+- Blokada bezpieczeństwa w celu automatycznego zabezpieczenia JuiceSSH po okresie nieaktywności
 
-For a detailed overview of this applications permissions and how each one is used in our ssh client please see https://juicessh.com/permissions
+W celu szczegółowego zapoznania się z uprawnieniami aplikacji i sposobem ich wykorzystania w naszym kliencie ssh proszę zobaczyć https://juicessh.com/permissions
